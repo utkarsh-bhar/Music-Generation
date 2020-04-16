@@ -1,9 +1,9 @@
 # Artificial Intelligence (CS7IS2) Project 2019-2020
 
 ### Developed by 
+* Utkarsh Bhardwaj
 * Taranvir Singh 
 * Akshay Mathur
-* Utkarsh Bhardwaj
 * Nikhil Girraj Khandelwal
 
 ## Dataset - We used the dataset used in the article ["How to Generate Music using a LSTM Neural Network in Keras"](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
